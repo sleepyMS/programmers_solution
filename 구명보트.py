@@ -10,4 +10,3 @@ def solution(people, limit):
             answer_tmp += 1
             
     return answer - answer_tmp // 2
-                
