@@ -1,2 +1,2 @@
-a = [1,2,3]
-print(a[-4%3])
+a = False
+print(not a)
